@@ -17,6 +17,6 @@ can be refreshed or shared as a link.
 3. Copy `.env.example` to `.env` and add your TMDB read access token
 4. `npm run dev`
 
-**Live site:** (add your Vercel link here later)
+**Live site:** movie-watchlist-orcin-tau.vercel.app
 
 This product uses the TMDB API but is not endorsed or certified by TMDB.
